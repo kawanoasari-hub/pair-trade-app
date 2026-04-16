@@ -1,0 +1,185 @@
+[
+  {
+    "code": "8031.T",
+    "name": "三井物産",
+    "entry_price": 5105,
+    "qty": 100,
+    "entry_date": "2026-02-04",
+    "exit_price": 5030,
+    "exit_date": "2026-02-06",
+    "strategy": "swing",
+    "status": "closed"
+  },
+  {
+    "code": "6178.T",
+    "name": "日本郵政",
+    "entry_price": 1893,
+    "qty": 300,
+    "entry_date": "2026-02-04",
+    "exit_price": 2045,
+    "exit_date": "2026-02-09",
+    "strategy": "swing",
+    "status": "closed"
+  },
+  {
+    "code": "6501.T",
+    "name": "日立",
+    "entry_price": 5767,
+    "qty": 100,
+    "entry_date": "2026-02-10",
+    "exit_price": 5648,
+    "exit_date": "2026-02-12",
+    "strategy": "swing",
+    "status": "closed"
+  },
+  {
+    "code": "5401.T",
+    "name": "日本製鉄",
+    "entry_price": 687.8,
+    "qty": 600,
+    "entry_date": "2026-02-12",
+    "exit_price": 667,
+    "exit_date": "2026-02-13",
+    "strategy": "swing",
+    "status": "closed"
+  },
+  {
+    "code": "7269.T",
+    "name": "スズキ",
+    "entry_price": 2330,
+    "qty": 200,
+    "entry_date": "2026-02-12",
+    "exit_price": 2337,
+    "exit_date": "2026-02-17",
+    "strategy": "swing",
+    "status": "closed"
+  },
+  {
+    "code": "8306.T",
+    "name": "三菱UFJFG",
+    "entry_price": 3032.4,
+    "qty": 100,
+    "entry_date": "2026-02-10",
+    "exit_price": 2943,
+    "exit_date": "2026-02-16",
+    "strategy": "swing",
+    "status": "closed"
+  },
+  {
+    "code": "8306.T",
+    "name": "三菱UFJFG",
+    "entry_price": 2922,
+    "qty": 200,
+    "entry_date": "2026-02-26",
+    "exit_price": 2831.0,
+    "exit_date": "2026-03-02",
+    "strategy": "swing",
+    "status": "closed"
+  },
+  {
+    "code": "8366.T",
+    "name": "滋賀銀行",
+    "entry_price": 8549,
+    "qty": 200,
+    "entry_date": "2026-02-27",
+    "exit_price": 8990.0,
+    "exit_date": "2026-02-27",
+    "strategy": "swing",
+    "status": "closed"
+  },
+  {
+    "code": "8354.T",
+    "name": "FUKUOKA FINANCIAL GROUP INC.",
+    "entry_price": 6545.0,
+    "qty": 200,
+    "entry_date": "2026-03-02",
+    "exit_price": 6375.0,
+    "exit_date": "2026-03-03",
+    "strategy": "swing",
+    "status": "closed"
+  },
+  {
+    "code": "8386.T",
+    "name": "HYAKUJUSHI BANK",
+    "entry_price": 9270.0,
+    "qty": 100,
+    "entry_date": "2026-03-02",
+    "exit_price": 9133.0,
+    "exit_date": "2026-03-03",
+    "strategy": "swing",
+    "status": "closed"
+  },
+  {
+    "code": "7203.T",
+    "name": "TOYOTA MOTOR CORP",
+    "entry_price": 3737.0,
+    "qty": 100,
+    "entry_date": "2026-03-03",
+    "exit_price": 3730.0,
+    "exit_date": "2026-03-03",
+    "strategy": "swing",
+    "status": "closed"
+  },
+  {
+    "code": "8341.T",
+    "name": "77TH BANK",
+    "entry_price": 9217.0,
+    "qty": 100,
+    "entry_date": "2026-03-05",
+    "exit_price": 9235.0,
+    "exit_date": "2026-03-06",
+    "strategy": "swing",
+    "status": "closed"
+  },
+  {
+    "code": "8001.T",
+    "name": "ITOCHU CORP",
+    "entry_price": 1999.0,
+    "qty": 100,
+    "entry_date": "2026-03-10",
+    "exit_price": 2061.1,
+    "exit_date": "2026-03-17",
+    "strategy": "swing",
+    "status": "closed"
+  },
+  {
+    "code": "9107.T",
+    "name": "KAWASAKI KISEN KAISHA",
+    "entry_price": 2693.5,
+    "qty": 100,
+    "entry_date": "2026-03-26",
+    "exit_price": 2771.0,
+    "exit_date": "2026-03-27",
+    "strategy": "swing",
+    "status": "closed"
+  },
+  {
+    "code": "9104.T",
+    "name": "MITSUI O.S.K. LINES LTD",
+    "entry_price": 6469.6,
+    "qty": 100,
+    "entry_date": "2026-04-01",
+    "exit_price": 6842.0,
+    "exit_date": "2026-04-02",
+    "strategy": "swing",
+    "status": "closed"
+  },
+  {
+    "code": "8306.T",
+    "entry_price": 2826.4,
+    "qty": 100,
+    "entry_date": "2026-04-14",
+    "exit_price": 2888.5,
+    "exit_date": "2026-04-15",
+    "status": "closed"
+  },
+  {
+    "code": "8306.T",
+    "entry_price": 2904.8,
+    "qty": 100,
+    "entry_date": "2026-04-15",
+    "exit_price": 2950.2,
+    "exit_date": "2026-04-16",
+    "status": "closed"
+  }
+]

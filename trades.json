@@ -1,0 +1,80 @@
+[
+  {
+    "code": "8031.T",
+    "name": "三井物産",
+    "entry_price": 5105,
+    "qty": 100,
+    "entry_date": "2026-02-04",
+
+    "exit_price": 5030,
+    "exit_date": "2026-02-06",
+
+    "strategy": "swing",
+    "status": "closed"
+  },
+  {
+   "code": "6178.T",
+    "name": "日本郵政",
+    "entry_price": 1893,
+    "qty": 300,
+    "entry_date": "2026-02-04",
+
+    "exit_price": 2045,
+    "exit_date": "2026-02-09",
+
+    "strategy": "swing",
+    "status": "closed"
+  },
+  {
+    "code": "6501.T",
+    "name": "日立",
+    "entry_price": 5767,
+    "qty": 100,
+    "entry_date": "2026-02-10",
+
+    "exit_price": 5648,
+    "exit_date": "2026-02-12",
+
+    "strategy": "swing",
+    "status": "closed"
+  },
+  {
+    "code": "5401.T",
+    "name": "日本製鉄",
+    "entry_price": 687.8,
+    "qty": 600,
+    "entry_date": "2026-02-12",
+
+    "exit_price": 667,
+    "exit_date": "2026-02-13",
+
+    "strategy": "swing",
+    "status": "losed"
+  },
+  {
+    "code": "7269.T",
+    "name": "スズキ",
+    "entry_price": 2330,
+    "qty": 200,
+    "entry_date": "2026-02-12",
+
+    "exit_price": 2337,
+    "exit_date": "2026-02-17",
+
+    "strategy": "swing",
+    "status": "closed"
+  },
+  {
+    "code": "8306.T",
+    "name": "三菱UFJFG",
+    "entry_price": 3032.4,
+    "qty": 100,
+    "entry_date": "2026-02-10",
+
+    "exit_price": 2943,
+    "exit_date": "2026-02-16",
+
+    "strategy": "swing",
+    "status": "closed"
+  }
+]  
